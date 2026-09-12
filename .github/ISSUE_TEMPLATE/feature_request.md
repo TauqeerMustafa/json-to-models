@@ -1,0 +1,1 @@
+---\nname: ✨ Feature Request\nabout: Suggest a feature for json-to-models\ntitle: '[FEAT] '\n---\n\n**Feature Details**\n
